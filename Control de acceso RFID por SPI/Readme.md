@@ -35,16 +35,14 @@ con millis() para no bloquear el programa entre lecturas.
 
 ### Evidencia del circuito físico
 
-<img src="Diagrama/Image1.jpeg" width="400">
+<img src="Diagrama/Img1.jpeg" width="200">
 
-<img src="Diagrama/Image3.jpeg" width="400">
+<img src="Diagrama/Img2.png" width="200">
 
-<img src="Diagrama/Image5.jpeg" width="400">
 
-<img src="Diagrama/Image6.jpeg" width="400">
 
 ## Código
-[Ver código](Codigo/)
+[Ver código](codigo/codigo.ino)
 
 ## Video del funcionamiento
 
