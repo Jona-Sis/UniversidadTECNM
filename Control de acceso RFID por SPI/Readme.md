@@ -31,7 +31,7 @@ con millis() para no bloquear el programa entre lecturas.
 
 ## Diagrama del circuito
 
-<img src="Diagrama/Diagrama.png" width="500">
+<img src="Diagrama/TKdiagrama.png" width="500">
 
 ### Evidencia del circuito físico
 
