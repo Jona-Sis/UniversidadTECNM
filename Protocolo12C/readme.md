@@ -54,7 +54,7 @@ distintas (0x08, 0x09 y 0x0A).
 
 <img src="Diagrama/Image3.jpg" width="500">
 
-<img src="Diagrama/Image4.jpg" width="500">
+
 
 
 
