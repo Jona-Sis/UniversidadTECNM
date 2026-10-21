@@ -69,9 +69,9 @@ stateDiagram-v2
     ENCENDIDO --> ENCENDIDO : apagar() [t < 1000 ms] / rechazada
 ```
 
-![Diagrama de conexión](Diagrama/Diagrama(1).jpeg)
+![Diagrama de conexión](Diagrama/Diagrama.jpeg)
 
-![Armado](Diagrama/Armado(1).jpg)
+![Armado](Diagrama/Armado.jpg)
 
 [Ver carpeta Diagrama](Diagrama)
 
